@@ -10,7 +10,6 @@
 <img src="https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/icons/Python-Dark.svg" width="65" height="65" alt="Python" /> &nbsp;
 <img src="https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/icons/SQLite.svg" width="65" height="65" alt="SQL Lite" /> &nbsp;
 <img src="https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/icons/VSCode-Dark.svg" width="65" height="65" alt="VS Code" /> &nbsp;
-<img src="https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/icons/Wordpress.svg" width="65" height="65" alt="WordPress" /> &nbsp;
 <img src="https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/icons/Exploring.svg" width="65" height="65" alt="Exploring" /> <-- Exploring....&nbsp;
 
 ## GitHub Profile Stats 💻
