@@ -1,6 +1,4 @@
-# Hello there, I'm Isha Patel &nbsp;&nbsp; ![iIshaPatel's github activity graph](https://komarev.com/ghpvc/?username=iIshaPatel&label=PROFILE+VIEWS&style=for-the-badge&color=blue)
-[![Github](https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/Github.svg)](https://github.com/iIshaPatel) &nbsp;&nbsp;&nbsp;&nbsp; [![Gmail](https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/Gmail.svg)](mailto:PatelIsha834@gmail.com) &nbsp;&nbsp;&nbsp;&nbsp; [![Instagram](https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/Instagram.svg)](https://instagram.com/_ishaaa_patel_) &nbsp;&nbsp;&nbsp;&nbsp; [![LinkedIn](https://github.com/RaannaKasturi/RaannaKasturi/blob/main/viscontent/LinkedIn.svg)](https://www.linkedin.com/in/isha-patel-324b05239)
-
+# Hello there, I'm Isha Patel 
 
 ## GitHub Profile Stats 💻
 <a> <img alt="iIshaPatel's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=iIshaPatel&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=242938&title_color=2E91F7&text_color=C2C2C2&icon_color=2E91F7" height="192px" /></a>
