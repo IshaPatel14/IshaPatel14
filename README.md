@@ -1,4 +1,5 @@
 # Hello there, I'm Isha Patel 
+# Zoology | Bioinformatics
 
 ## GitHub Profile Stats 💻
 <a> <img alt="iIshaPatel's Github Stats" src="https://github-readme-stats.vercel.app/api/?username=iIshaPatel&show_icons=true&count_private=true&theme=default&hide_border=false&bg_color=242938&title_color=2E91F7&text_color=C2C2C2&icon_color=2E91F7" height="192px" /></a>
